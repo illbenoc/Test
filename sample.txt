@@ -1,3 +1,5 @@
 Hello niaru.
 This is a sample text file.
 My name is fujioka.yay
+
+change test from Atom.
