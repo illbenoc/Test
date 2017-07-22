@@ -1,0 +1,2 @@
+Hello niaru.
+This is a sample text file.
